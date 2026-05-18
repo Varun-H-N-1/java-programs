@@ -3,3 +3,44 @@
 10b : https://github.com/Varun-H-N-1/java-programs/blob/main/10b.png
 
 2a : https://github.com/Varun-H-N-1/java-programs/blob/main/2aoutput.png
+2b : https://github.com/Varun-H-N-1/java-programs/blob/main/2boutput.png
+
+3a  :  https://github.com/Varun-H-N-1/java-programs/blob/main/3a.output.png
+
+3b : https://github.com/Varun-H-N-1/java-programs/blob/main/3bq1output.png
+
+3b1 : https://github.com/Varun-H-N-1/java-programs/blob/main/3bq1output.png
+
+3b2 :https://github.com/Varun-H-N-1/java-programs/blob/main/3bq2output.png
+
+3b3 : https://github.com/Varun-H-N-1/java-programs/blob/main/3bq3output.png
+
+3b4 : https://github.com/Varun-H-N-1/java-programs/blob/main/3bq4output.png
+
+3b5 : https://github.com/Varun-H-N-1/java-programs/blob/main/3bq5output.png
+
+3b10 : https://github.com/Varun-H-N-1/java-programs/blob/main/3cq10output.png
+
+3b6 : https://github.com/Varun-H-N-1/java-programs/blob/main/3cq6output.png
+
+3b7 : https://github.com/Varun-H-N-1/java-programs/blob/main/3cq7output.png
+
+3b8 : https://github.com/Varun-H-N-1/java-programs/blob/main/3cq8output.png
+
+3b9 : https://github.com/Varun-H-N-1/java-programs/blob/main/3cq9output.png
+
+4a : https://github.com/Varun-H-N-1/java-programs/blob/main/4aoutputt.png
+
+4b : https://github.com/Varun-H-N-1/java-programs/blob/main/4boutputt.png
+
+4c : https://github.com/Varun-H-N-1/java-programs/blob/main/4coutputt.png
+
+5a :https://github.com/Varun-H-N-1/java-programs/blob/main/5aoutputtt.png
+
+5b : https://github.com/Varun-H-N-1/java-programs/blob/main/5boutputtt.png
+
+5c : https://github.com/Varun-H-N-1/java-programs/blob/main/5coutputtt.png
+
+5d : https://github.com/Varun-H-N-1/java-programs/blob/main/5doutputtt.png
+
+6a : https://github.com/Varun-H-N-1/java-programs/blob/main/6a.png
