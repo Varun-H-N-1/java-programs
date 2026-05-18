@@ -44,3 +44,46 @@
 5d : https://github.com/Varun-H-N-1/java-programs/blob/main/5doutputtt.png
 
 6a : https://github.com/Varun-H-N-1/java-programs/blob/main/6a.png
+6b : https://github.com/Varun-H-N-1/java-programs/blob/main/6b.png
+
+6c : https://github.com/Varun-H-N-1/java-programs/blob/main/6c.png
+
+7a : https://github.com/Varun-H-N-1/java-programs/blob/main/7a.png
+
+7b : https://github.com/Varun-H-N-1/java-programs/blob/main/7b.png
+
+8a : https://github.com/Varun-H-N-1/java-programs/blob/main/8a.png
+
+8b : https://github.com/Varun-H-N-1/java-programs/blob/main/8b.png
+
+9a : https://github.com/Varun-H-N-1/java-programs/blob/main/9a.png
+
+9b : https://github.com/Varun-H-N-1/java-programs/blob/main/9b.png
+
+9c : https://github.com/Varun-H-N-1/java-programs/blob/main/9c.png
+
+p10 : https://github.com/Varun-H-N-1/java-programs/blob/main/p10output.png
+
+p1 : https://github.com/Varun-H-N-1/java-programs/blob/main/p1output.png
+
+p2 : https://github.com/Varun-H-N-1/java-programs/blob/main/p2output.png
+
+p3 : https://github.com/Varun-H-N-1/java-programs/blob/main/p3output.png
+
+p4 : https://github.com/Varun-H-N-1/java-programs/blob/main/p4output.png
+
+p5 : https://github.com/Varun-H-N-1/java-programs/blob/main/p5output.png
+
+p6 : https://github.com/Varun-H-N-1/java-programs/blob/main/p6output.png
+
+p7 : https://github.com/Varun-H-N-1/java-programs/blob/main/p7output.png
+
+p8 : https://github.com/Varun-H-N-1/java-programs/blob/main/p8output.png
+
+p9 : https://github.com/Varun-H-N-1/java-programs/blob/main/p9output.png
+
+
+
+
+
+
